@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: association
+  host: localhost
+  pool: 5
+  username: postgres
+  password: 123
