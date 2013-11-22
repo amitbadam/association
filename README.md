@@ -1,4 +1,4 @@
-Simple Association
+<h1>Simple Association</h1>
 
 rails g scaffold User name:string email:string
 
