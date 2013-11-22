@@ -6,7 +6,7 @@
 
 
 <b>app/models/user.rb</b><br>
-has_many :microposts
+<b>has_many :microposts</b>
 
 <b>app/models/micropost.rb</b><br>
-belongs_to :user
+<b>belongs_to :user</b>
